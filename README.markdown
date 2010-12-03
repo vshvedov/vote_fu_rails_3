@@ -6,6 +6,7 @@ Allows an arbitrary number of entites (including Users) to vote on models.
 **(now Banana and Rails 3 compatible!)**
 
 **Now dance!**
+
 [![Electrix Six](http://i53.tinypic.com/2u5xheb.png)](http://www.youtube.com/watch?v=HTN6Du3MCgI)
 
 ### Mixins
