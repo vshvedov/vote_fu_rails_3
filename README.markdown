@@ -31,7 +31,7 @@ Installation
 Use either the plugin or the gem installation method depending on your preference. If you're not sure, the plugin method is simpler. Whichever you choose, create the migration afterward and run it to create the required model.
 
 ### Via plugin
-    rails plugin install git://github.com/peteonrails/vote_fu.git 
+    rails plugin install git://github.com/vshvedov/vote_fu_rails_3.git
 
 ### Create vote_fu migration
 Create a new rails migration using your new vote_fu generator (Note: "VoteableModel" is the name of the model on which you would like votes to be cast, e.g. Comment):
