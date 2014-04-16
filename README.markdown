@@ -1,4 +1,4 @@
-# vote_fu_rails_3 is extrimely outdate and no longer maintained
+# vote_fu_rails_3 is extrimely outdated and no longer maintained
 
 vote_fu_rails_3
 =======
